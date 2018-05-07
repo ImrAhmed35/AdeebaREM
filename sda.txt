@@ -1,0 +1,68 @@
+Docker
+AWS Technical Essentials
+
+Cospace ID -  59283751
+
+https://pshr.prod.gmaccm.com/psp/pshrprd/EMPLOYEE/HRMS/h?tab=DEFAULT
+
+https://www.simplilearn.com/business-productivity-tools/microsoft-office-2013-outlook-certification-training
+
+https://tfs.berkadia.com/tfs/Enterprise/Polaris/Scrum%20Team%20Polaris%20Indus/_backlogs/Iteration/Scrum%20Team%20Indus/1.5
+
+https://www.simplilearn.com/mobile-and-software-development/html-css-training
+
+https://www.edureka.co/linux-fundamentals-self-paced
+
+https://pa508incmon1/IM/scripts/LoginPage.asp?ErrorState=&LoginAttempts=
+
+The Employee Self Service (ESS) website can now be accessed at: https://www.ess.adp.in/ESS4
+Your login credentials are as follows:
+Company Code:	:	berkadiaservices
+User Name	:	1872
+Password	:	f25e1e6f4c67
+Request you to login and change the password immediately
+
+Total Experience : 
+Designation : 
+DOP:  
+Married or Not : 
+Marriage Anniversary : 
+Wife Name : 
+DOB : 
+Berkadia Tenure :  
+CTC : 				
+Skill Set : 
+
+MySQL >> Mysql@1234
+
+Class 1: https://edureka.wistia.com/medias/y8vhlzlxbc
+Class 2: https://edureka.wistia.com/medias/d3z896u2j5
+Class 3: https://edureka.wistia.com/medias/0ewdt8y9aw
+Class 4: https://edureka.wistia.com/medias/izab14z6xk
+Class 5: https://edureka.wistia.com/medias/wamf59yq4f
+Class 6: https://edureka.wistia.com/medias/cpbhqhd89f
+
+Ninth Team ganapathi
+Scrum Master 9th team
+Onboarding for team 9
+OmniView Green team new
+Morgan on 3rd FSA
+Kanban team structure
+angular COI
+
+
+Recruitment for SE/SSE/LSE- Node JS
+Recruitment for SE/SSE/LSE- Angular JS
+
+https://sp13.berkadia.com/it/bt/AgileCOI/SitePages/Home.aspx 
+
+
+git stash save "asfasfasf"
+git stash list
+git stash apply
+git stash show
+git stash clear
+git clone <<Original>> <<<<Cloned>>>>
+git branch -a
+:qa!<<enter>>
+help.txt
